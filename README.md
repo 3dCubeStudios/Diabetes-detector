@@ -1,4 +1,4 @@
-## End-to-End Diabetes Prediction Application using Machine Learning (MINI Project)  
+## Diabetes-Detector (MINI Project)  
 
 
 ### Table of Content
