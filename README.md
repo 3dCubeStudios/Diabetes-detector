@@ -32,8 +32,7 @@ The following points were the objective of the project . If you are looking for 
 - Data Visualizations 
 - Data Preprocessing 
 - Data Modelling 
-- Model Evaluation 
-- Model Deployment 
+
 
 ### Technical Aspect 
 
